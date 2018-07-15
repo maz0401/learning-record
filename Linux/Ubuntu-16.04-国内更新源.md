@@ -8,14 +8,8 @@ sudo cp /etc/apt/sources.list /etc/apt/sources.list.old
 
 2. 执行命令打开source.list文件
 
-可以用vim，gedit,atom等工具打开
-
 ```cmd
 sudo vim /etc/apt/source.list
-或
-sudo gedit /etc/apt/source.list
-或(你得自己安装atom，我觉得挺好的一个工具)
-sudo atom /etc/apt/source.list
  ```
  
 3. 复制源
